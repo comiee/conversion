@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.jinzhi.MainActivity" >
+
+    <item
+        android:id="@+id/action_help"
+        android:orderInCategory="100"
+        android:title="@string/action_help"/>
+    <item 
+        android:id="@+id/action_exit"
+        android:orderInCategory="100"
+        android:title="@string/action_exit" />
+
+</menu>
